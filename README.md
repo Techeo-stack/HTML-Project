@@ -37,20 +37,21 @@ No server setup or dependencies are required since this project is built with **
 
 ## Screenshots
 
-1. **Live Screenshot 001 - Navbar | Hero Section.**
- ![First Screenshot](./image/screenshot001.png)
+1. **Live Screenshot 001 - Navbar | Hero Section.**  
+   ![First Screenshot](./image/screenshot001.png)
 
- 2. **Live Screenshot 002 - About Section | Work Section.**
-![Second Screenshot](./image/screenshot002.png)
+2. **Live Screenshot 002 - About Section | Work Section.**  
+   ![Second Screenshot](./image/screenshot002.png)
 
-3. **Live Screenshot 003 - Work Section.**
-![Third Screenshot](./image/screenshot003.png)
+3. **Live Screenshot 003 - Work Section.**  
+   ![Third Screenshot](./image/screenshot003.png)
 
-4. **Live Screenshot 001 - Resume Section.**
-![Fourth Screenshot](./image/screenshot004.png)
+4. **Live Screenshot 004 - Resume Section.**  
+   ![Fourth Screenshot](./image/screenshot004.png)
 
-5. **Live Screenshot 001 - Contact Section | Footer.**
-![Fifth Screenshot](./image/screenshot005.png)
+5. **Live Screenshot 005 - Contact Section | Footer.**  
+   ![Fifth Screenshot](./image/screenshot005.png)
+
 
 ## Technologies Used
 
