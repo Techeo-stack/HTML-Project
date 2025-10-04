@@ -21,8 +21,6 @@ This project showcases my profile, projects, resume, and contact form in a clean
 └── README.md
 ```
 
-````
-
 ## How to Use
 
 1. Clone the repository:
@@ -33,7 +31,7 @@ This project showcases my profile, projects, resume, and contact form in a clean
 
 2. Open the `index.html` file in your browser.
 
-No server setup or dependencies are required since this project is built with **pure HTML**.
+This project is built with **pure HTML**.
 
 ## Screenshots
 
@@ -52,7 +50,6 @@ No server setup or dependencies are required since this project is built with **
 5. **Live Screenshot 005 - Contact Section | Footer.**  
    ![Fifth Screenshot](./image/screenshot005.png)
 
-
 ## Technologies Used
 
 - HTML5 (semantic elements)
@@ -60,6 +57,3 @@ No server setup or dependencies are required since this project is built with **
 - Accessible markup
 
 © 2025 Ola Esther Pelumi. All rights reserved.
-
-```
-````
