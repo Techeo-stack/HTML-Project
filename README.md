@@ -41,6 +41,8 @@ No server setup or dependencies are required since this project is built with **
  ![First Screenshot](image/screenshot001.png)
 ![Second Screenshot](image/screenshot002.png)
 ![Third Screenshot](image/screenshot003.png)
+![Third Screenshot](image/screenshot004.png)
+![Third Screenshot](image/screenshot005.png)
 
 ## Technologies Used
 
